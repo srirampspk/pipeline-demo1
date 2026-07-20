@@ -1,5 +1,5 @@
 import pytest
-from app.calculator import add, subtract, multiply, divide
+from src.mathfun import add, subtract, multiply, divide
 
 
 def test_add():
